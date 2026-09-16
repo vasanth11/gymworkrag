@@ -39,9 +39,9 @@ Cloud plan forbids installing unverified community packages):
    credentials. Activate the workflow.
 5. Open the Form Trigger node's **Production URL** to use the bot.
 
-## Notes
+## project doc
 
-See the project documentation (Google Doc) for the full framework write-up, iteration history,
+See the project documentation in docs/Gym_Workout_Bot_Project_Documentation.docx for the full framework write-up, iteration history,
 and evaluation results. Earlier attempts using n8n's LangChain-based nodes (Vector Store, Chat
 Trigger, etc.) are not included here — they failed because this n8n Cloud plan blocks that
 entire package; the documentation narrates that journey.
